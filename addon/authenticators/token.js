@@ -1,5 +1,4 @@
 import EmberObject from '@ember/object';
-import fetch from 'fetch';
 import { assign } from '@ember/polyfills';
 import { Promise, resolve } from 'rsvp';
 import { isEmpty } from '@ember/utils';
